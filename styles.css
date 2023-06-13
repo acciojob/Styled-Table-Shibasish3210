@@ -1,1 +1,12 @@
 /* your code */
+.head{
+	background-color: navy;
+	color: white;
+	padding: 3px;
+	margin: 5px 2px;
+}
+
+.body{
+	background-color: antiquewhite;
+	padding: 5px 5px;
+}
